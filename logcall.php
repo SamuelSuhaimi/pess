@@ -70,15 +70,15 @@ $conn->close();
   </tr>
   
   <tr>
-    <td>Caller's Name :</td>
+    <td>Caller's ID :</td>
     <td><input type="text" name="callerName" id="callerName"></td>
   </tr>
   <tr>
-    <td>Contact No :</td>
+    <td>Phone Number :</td>
     <td><input type="text" name="contactNo" id="contactNo"></td>
   </tr>
   <tr>
-    <td>Location :</td>
+    <td>Location of Incident :</td>
     <td><input type="text" name="location" id="location"></td>
   </tr>
   <tr>
